@@ -2,16 +2,16 @@
 
 @font-face {
   font-family: "smItalic";
-  src: url("fonts/self-modern-italic.woff2") format("woff2"),
-    url("fonts/self-modern-italic.woff") format("woff");
+  src: url("../fonts/self-modern-italic.woff2") format("woff2"),
+    url("../fonts/self-modern-italic.woff") format("woff");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: "smRegular";
-  src: url("fonts/self-modern-regular.woff2") format("woff2"),
-    url("fonts/self-modern-regular.woff") format("woff");
+  src: url("../fonts/self-modern-regular.woff2") format("woff2"),
+    url("../fonts/self-modern-regular.woff") format("woff");
   font-weight: normal;
   font-style: normal;
 }
