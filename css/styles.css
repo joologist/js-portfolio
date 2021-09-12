@@ -37,6 +37,15 @@ body {
           animation: fadein 1.5s;
 }
 
+a {
+  color: #0D814D;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #0D814D;
+}
+
 @keyframes fadein {
   from { opacity: 0; }
   to   { opacity: 1; }
@@ -180,6 +189,24 @@ body {
 
 
 /*----------------------WORK PAGE---------------------------------*/
+
+#construction {
+  background-color: #F6F2EF;
+  margin-top: 1rem;
+  margin-left: 2.3rem;
+  margin-right: 2.3rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  border-radius: 15px;
+  font-family: "degular", sans-serif;
+  font-size: 0.9rem;
+}
+
+#construction-text {
+  color: #988C86;
+}
 
 .section {
   font-family: degular, sans-serif;
